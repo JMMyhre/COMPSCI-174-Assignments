@@ -5,14 +5,16 @@
 ### All of this work was completed by myself
 
 ## Homework
-HW 1: This homework assignment, was our first in this course. It introduced basic input and output, as well as basic variables and operators. 
+HW 1: _This homework assignment, was our first in this course. It introduced basic input and output, as well as basic variables and operators._ 
 - [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw1.cpp)
-
-HW 2: This homework assignment has two parts. The first part is a basic income calculator, it takes in the amount of each type of seat at a sports game sold, and calculates the total income from the seats. The second part has a similar idea, it takes in the total number of tickets sold in a movie and calculates the gross profit for the box office as well as the distributor. 
+ 
+HW 2: _This homework assignment has two parts. The first part is a basic income calculator, it takes in the amount of each type of seat at a sports game sold, and calculates the total income from the seats. The second part has a similar idea, it takes in the total number of tickets sold in a movie and calculates the gross profit for the box office as well as the distributor._ 
 - Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw2_problem1.cpp)
 - Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw2_problem2.cpp)
 
-HW 3:
+HW 3: _This homework assignment has two parts. The first part is a solution calculator for a specific equation, which only takes in positive integer values. The second part of this assignment was a first look at if else statements, and was used to output a result based on how many hours you worked out that week._
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw3_problem1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw3_problem2.cpp)
 
 HW 4:
 
