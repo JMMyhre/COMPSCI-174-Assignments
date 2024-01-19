@@ -5,6 +5,14 @@
 ### All of this work was completed by myself
 
 ## Homework
+HW 1:
+HW 2:
+HW 3:
+HW 4:
+HW 5:
+HW 6:
+HW 7:
+HW 8:
 
 ## Labs
 
