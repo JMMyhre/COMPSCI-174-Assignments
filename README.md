@@ -1,4 +1,4 @@
-# This is a Repository for all of the Course work included in COMPSCI 174
+# This is a repository for the course work included in COMPSCI 174
 
 ## COMPSCI 174 is an introductory course to C++
 
