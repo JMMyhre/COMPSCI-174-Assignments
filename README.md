@@ -5,9 +5,9 @@
 ### All of this work was completed by myself
 
 ## Homework
-HW 1:
+HW 1: This Homework assignment, was our first in this course. It introduced basic input and output, as well as basic variables and operators. [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw1.cpp)
 
-HW 2:
+HW 2: 
 
 HW 3:
 
