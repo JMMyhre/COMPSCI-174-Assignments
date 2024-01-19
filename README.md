@@ -16,7 +16,8 @@ HW 3: _This homework assignment has two parts. The first part is a solution calc
 - Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw3_problem1.cpp)
 - Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw3_problem2.cpp)
 
-HW 4:
+HW 4: _This homework assignment was our first introduction to for loops as well as arrays. This homework assignment asks the user to input numbers for both of the arrays, then scans the arrays to see if they are the same._
+- [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw4.cpp)
 
 HW 5:
 
