@@ -25,36 +25,52 @@ HW 5:_This homework assignment was a way to introduce us to functions as well as
 
 ## Labs
 
-Lab 3: [This file has a House](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab01_myhre.zip)
+Lab 3:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp)
 
-Lab 4: [This file has a planet with stars](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab02_myhre.zip)
-  - [Sketch code for lab 2](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab2Sketch)
+Lab 4:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp)
 
-Lab 5: [This file has bubbles that move with the cursor and bubbles that move passively on the screen](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab03_myhre.zip)
-  - [Sketch code for lab 3](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab3Sketch)
+Lab 5:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
 
-Lab 6: [This file has pizza that changes toppings when you click on it](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab04_myhre%20(2).zip)
-  - [Sketch code for lab 4](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab4Sketch)
+Lab 6:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
 
-Lab 7: [This file has a television screen with a ball bouncing around in it](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab05_myhre.zip)
-  - [Sketch code for lab 5](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab5Sketch)
+Lab 7:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
 
-Lab 8: [This file has a pac that moves back and forth on the screen with some pips](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab06_myhre.zip)
-  - [Sketch code for lab 6](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab6Sketch)
+Lab 8:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
 
-Lab 9: [This file has leaves that fall across the screen](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab07_myhre.zip)
-  - [Sketch code for lab 7](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab7Sketch)
+Lab 9:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
 
-Lab 10: [This file shows text and images boucing from side to side](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab08_myhre.zip)
-  - [Sketch code for lab 8](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab8Sketch)
+Lab 10:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
 
-Lab 11: [This file shows a rotating map with zoom in zoom out features](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/f21magd150lab10_myhre.zip)
-  - [Sketch code for lab 10](https://github.com/JMMyhre/MAGD-150-Assignments/blob/gh-pages/Lab10Sketch)
+Lab 11:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
 
 ## Projects
 
-Project 1:
+Project 1:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp)
 
-Project 2: 
+Project 2:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
 
-Project 4:
+Project 4:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp)
