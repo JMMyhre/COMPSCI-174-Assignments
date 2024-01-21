@@ -29,17 +29,18 @@ Lab 3:_This lab assignment has two parts. In the first part we coded a basic con
 - Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
 - Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp)
 
-Lab 4:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp)
+Lab 4:_The first part to this lab assignment is a character converter, this was to get us used to how the character data type worked and how we could use it. The second part of this lab is a basic input output, the user puts in hours and the name of a gym and it outputs a statement_
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab4_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab4_task2.cpp)
 
-Lab 5:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
+Lab 5:_The first part of this lab calculates your total cost for an electric bill based on a users usage. The second part of this lab has the user input 3 numbers and gives back the largest one._
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab5_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab5_task2.cpp) 
 
-Lab 6:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
+Lab 6:_This lab has three parts. In part one we ask the user for a positive number, and calculate whether that number is prime or not. In part two we take a number from the user and sum up the digits in the number. Finally in the third part we take and print all of the ascii numbers for the letters A-z._
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab6_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab6_task2.cpp)
+- Part 3 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab6_task3.cpp) 
 
 Lab 7:_This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
 - Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
