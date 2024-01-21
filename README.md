@@ -19,7 +19,9 @@ HW 3: _This homework assignment has two parts. The first part is a solution calc
 HW 4: _This homework assignment was our first introduction to for loops as well as arrays. This homework assignment asks the user to input numbers for both of the arrays, then scans the arrays to see if they are the same._
 - [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw4.cpp)
 
-HW 5:
+HW 5:_This homework assignment was a way to introduce us to functions as well as nested for loops. In part 1 we have to create a specific pyramid pattern using nested for loops. While in part 2 we had to use a function to reverse a string that we got from user input._
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw5_problem1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw5_problem2.cpp)
 
 ## Labs
 
