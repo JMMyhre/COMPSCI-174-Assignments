@@ -6,9 +6,9 @@
 
 ## Homework
 HW 1: _This homework assignment, was our first in this course. It introduced basic input and output, as well as basic variables and operators._ 
-```
+
 - [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw1.cpp)
-```
+
 HW 2: _This homework assignment has two parts. The first part is a basic income calculator, it takes in the amount of each type of seat at a sports game sold, and calculates the total income from the seats. The second part has a similar idea, it takes in the total number of tickets sold in a movie and calculates the gross profit for the box office as well as the distributor._ 
 - Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw2_problem1.cpp)
 - Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/hw2_problem2.cpp)
