@@ -67,14 +67,14 @@
 
 ## Projects
 
-**Project 1:** _This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp)
+**Project 1:** _This project was our first project. The goal was to design a console based snakes and ladders game. The game has 36 spaces and lets your roll again if you roll a 6._
+- [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/project1.cpp)
 
-**Project 2:** _This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
+**Project 2:** _This project is a console based file creation and editing project. It has six different possible tasks, view contents, create a text file, write to a text file, add to a text file, search for a word in the text file, and replace an existing word in a text file._
+- [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/project2.cpp)
 
-**Project 4:** _This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp)
+**Project 3 (Lab Project):** _This project is a console based image editor. It will put a filter on the photo and give you a different image based on the option you choose._
+- [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab_project.cpp)
+
+**Project 4:** _This project is a basic calculator, that takes in the user expression and computes it._
+- [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/project4.cpp)
