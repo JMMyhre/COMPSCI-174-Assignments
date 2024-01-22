@@ -52,17 +52,18 @@
 - Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab8_task2.cpp)
 - Part 3 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab8_task3.cpp)
   
-**Lab 9:** _This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
+**Lab 9:** _This lab assignment has three parts. The first part takes user input for three matrices and conputes the sum of those two matrices. The second part takes an integer in from the user and uses it to make a design in the console. The third and final part takes user input for two, two by two matrices and calculates the reciprocal matrix._
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab9_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab9_task2.cpp)
+- Part 3 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab9_task3.cpp)  
 
-**Lab 10:** _This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
+**Lab 10:** _This lab assignment has two parts. The first part takes a string from the user and converts the lowercase characters to uppercase characters and returns it. The second part does the same thing but prints it to the console._
+- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab10_task1.cpp)
+- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab10_task2.cpp) 
 
-**Lab 11:** _This lab assignment has two parts. In the first part we coded a basic conversion calculator for US currency to Canadian currency. The second part uses similar features, but takes in the number of female and male students in a class and computes the percent female and percent male in the class_
-- Part 1 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task1.cpp)
-- Part 2 can be found [here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab3_task2.cpp) 
+**Lab 11:** _This lab assignment takes a string and does three different things with it, The first is converting all of the characters to uppercase, the second is reversing the order of the string, and the third is checking the length of the string._
+- [Find it Here](https://github.com/JMMyhre/COMPSCI-174-Assignments/blob/gh-pages/lab11.cpp)
+
 
 ## Projects
 
